@@ -25,10 +25,7 @@ export function AboutPage() {
                 margin: 0,
               }}
             >
-              I&apos;m a builder and researcher working at the intersection of
-              artificial intelligence and human-computer interaction. I&apos;m
-              passionate about creating systems that are both intelligent and
-              thoughtfully designed.
+              我是张一飞，欢迎来到我的博客。2026年伊始开始深耕于AI agent领域，创建这个博客主要是想和大家分享一些我对行业看法，以及一些项目经验和方法。
             </p>
           </div>
 
