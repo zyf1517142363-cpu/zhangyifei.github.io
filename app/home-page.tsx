@@ -24,7 +24,7 @@ export function HomePage({ posts }: { posts: Post[] }) {
             margin: 0,
           }}
         >
-          A thoughtful builder
+          Zhang Yifei
         </h1>
         <p
           style={{
